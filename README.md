@@ -49,7 +49,6 @@ I am a proactive Software Engineer with a "Builder DNA", currently pursuing my M
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajan-khatri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajan-khatri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
